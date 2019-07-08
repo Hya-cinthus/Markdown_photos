@@ -1,4 +1,5 @@
 # Markdown_photos
 store md photos
 
-### Use ![](xxx.jpeg) in markdown
+### Use in markdown:
+    ![](xxx.jpeg) 
